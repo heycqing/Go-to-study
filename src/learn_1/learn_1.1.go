@@ -1,7 +1,8 @@
 package main
+
 import "fmt"
 
-func main(){
+func main() {
 	var a = "a is man"
 	fmt.Println("halo man", a)
 }
